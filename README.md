@@ -22,8 +22,8 @@ The Sumerian King List is separated into pre and post-flood kings, with eight ki
 
 - Historicity -
 The historicity of each king is recorded as a rating between 1 and 5:
-| Rating | Description |
-|---|---|
+| Value | Meaning |
+|-------|---------|
 | 1 | Generally considered a purely mythological figure by historians |
 | 2 | Believed likely to be a mythological figure by historians |
 | 3 | Historicity unknown |
