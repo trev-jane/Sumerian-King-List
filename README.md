@@ -21,7 +21,6 @@ Two related tables, linked by foreign key:
 The Sumerian King List is separated into pre and post-flood kings, with eight kings having ruled before a great flood swept over the land. Each of the pre-flood kings is attributed a reign of tens of thousands of years, and none are archaeologically attested. The Sumerian flood tradition is the likely basis for the Biblical story of Noah, as they bear striking similarities. Flood traditions are extremely widespread in ancient civilizations, perhaps because civilizations generally form near rivers, which are known to flood.
 
 - Historicity -
-The historicity of each king is recorded as a rating between 1 and 5:
 | Value | Meaning |
 |-------|---------|
 | 1 | Generally considered a purely mythological figure by historians |
