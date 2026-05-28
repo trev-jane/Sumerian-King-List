@@ -23,7 +23,6 @@ The Sumerian King List is separated into pre and post-flood kings, with eight ki
 
 | Value | Meaning |
 |-------|---------|
-
 | 1 | Generally considered a purely mythological figure by historians |
 | 2 | Believed likely to be a mythological figure by historians |
 | 3 | Historicity unknown |
